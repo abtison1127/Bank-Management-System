@@ -278,5 +278,6 @@ void intro(){
     cout << "\n\n\tMANAGEMENT";
     cout << "\n\n\tSYSTEM";
     cout << "\n\nAUTHORED BY: Ambross Tison";
+    cout << "\n\nPress ENTER to continue";
     cin.get();
 }
